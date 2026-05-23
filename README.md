@@ -1,1 +1,1 @@
-# studywiki
+# homework-wiki
